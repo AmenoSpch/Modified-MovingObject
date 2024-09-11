@@ -1,0 +1,9 @@
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\bin\Debug\MovingObjectServer.exe.config
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\bin\Debug\MovingObjectServer.exe
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\bin\Debug\MovingObjectServer.pdb
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\ClientApp.csproj.AssemblyReference.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\MovingObjectServer.Properties.Resources.resources
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\ClientApp.csproj.GenerateResource.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\ClientApp.csproj.CoreCompileInputs.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\MovingObjectServer.exe
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\ClientApp (Klien)\obj\Debug\MovingObjectServer.pdb

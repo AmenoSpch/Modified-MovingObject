@@ -1,0 +1,20 @@
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.Properties.Resources.resources
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.GenerateResource.cache
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe.config
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.exe
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\bin\Debug\MovingObject.pdb
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.exe
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.pdb
+F:\Kuliah\Semester 5\Praktikum Pemrograman Jaringan Komputer\Ngaco\NetworkProgramming-master\MovingObject\obj\Debug\MovingObject.ServerForm.resources
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\bin\Debug\MovingObject.exe.config
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\bin\Debug\MovingObject.exe
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\bin\Debug\MovingObject.pdb
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.csproj.AssemblyReference.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.Form1.resources
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.Properties.Resources.resources
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.csproj.GenerateResource.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.csproj.CoreCompileInputs.cache
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.exe
+C:\Users\kivad\Downloads\MovingObject-main\MovingObject-main\MovingObject (Server)\obj\Debug\MovingObject.pdb
